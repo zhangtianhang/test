@@ -1,6 +1,4 @@
 
-
-
  @font-face {
      font-family: 'YourWebFontName';
      src: url('qIIYRU-oROkIk8vfvxw6QvesZW2xOQ-xsNqO47m55DA.woff');
@@ -37,8 +35,8 @@ h1{
  }
 .price{
     color:red;
-    margin: 15px 10px;
-    display: inline-block;
+    margin: 20px 10px;
+
 }
 
 .cost{
@@ -49,11 +47,7 @@ h1{
     display: inline-block;
     font-size: 70px;
     color:black;
-
-    -moz-transform:rotate(90deg);
--webkit-transform:rotate(90deg);
--o-transform:rotate(90deg);
 transform:rotate(90deg);
-filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+
 }
 
