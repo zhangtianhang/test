@@ -1,0 +1,45 @@
+.container{
+width: 100%;
+}
+.photo{
+    float: left;
+    width: 40%;
+
+}
+.content,.album{
+    float:right;
+
+}
+.text{
+    font-size: 48px;
+    padding: 50px 0;
+
+}
+.texts{
+    float: right;
+    font-size:35px;
+    padding: 15px 0;
+
+}
+.line{
+     text-decoration: line-through;
+    text-decoration-color: black;
+ }
+.price{
+     color:red;
+    padding: 20px 0 0 0;
+}
+.active{
+    float:left;
+}
+h1{
+    font-size:48px;
+    padding: 0 0 0 20px;
+}
+.erweima{
+    float: right;
+}
+.renwu{
+    margin:0 ;
+
+}
